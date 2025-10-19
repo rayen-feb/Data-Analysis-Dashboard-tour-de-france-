@@ -13,7 +13,7 @@ The project includes:
 - KPI definition and analysis
 - Visualizations and dashboard creation for BI insights
   
-![Alt text](/edit/main//1.jpg)
+![Alt text](/edit/main/1.jpg)
 
 
 ## Project Structure
