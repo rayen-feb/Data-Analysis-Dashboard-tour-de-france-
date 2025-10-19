@@ -13,7 +13,7 @@ The project includes:
 - KPI definition and analysis
 - Visualizations and dashboard creation for BI insights
   
-![Alt text](/3.jpg)
+![Alt text](/1.jpg)
 
 
 ## Project Structure
@@ -71,7 +71,7 @@ The project uses historical data from the Tour de France, including:
 - **Dashboard**:
   - Interactive filters to select stage type, year, or team
   - KPIs displayed in cards for quick insights
-![Alt text](/1.jpg)
+![Alt text](/3.jpg)
 
 ---
 
