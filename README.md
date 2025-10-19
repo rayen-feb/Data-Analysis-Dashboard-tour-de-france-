@@ -13,7 +13,7 @@ The project includes:
 - KPI definition and analysis
 - Visualizations and dashboard creation for BI insights
   
-![Alt text](/Data-Analysis-Dashboard-tour-de-france-/main/1.jpg)
+![Alt text](/1.jpg)
 
 
 ## Project Structure
