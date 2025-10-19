@@ -14,7 +14,7 @@ The project includes:
 - Visualizations and dashboard creation for BI insights
   
 ![Alt text](/3.jpg)
-![Alt text](/Screenshot%202025-10-18%201.jpg)
+
 
 ## Project Structure
 
